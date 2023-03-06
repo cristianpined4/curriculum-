@@ -54,6 +54,7 @@ main .experiencia {
   background-color: #fff;
   border-radius: 15px 0px;
   padding: 2rem;
+  box-shadow: #32323275 3px 6px 9px;
 }
 
 main .personal {
