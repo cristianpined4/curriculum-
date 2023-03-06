@@ -164,6 +164,8 @@ footer {
 @media screen and (max-width: 768px) {
   main {
     grid-template-columns: 1fr;
+    padding-left : 1rem;
+    padding-right : 1rem;
   }
 
   main .laboral .descripcion {
